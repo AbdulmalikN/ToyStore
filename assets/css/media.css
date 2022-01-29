@@ -1,0 +1,271 @@
+@media (max-width: 1200px) {
+  #root {
+    max-width: 1200px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .toppest {
+    padding: 8px 135px;
+  }
+
+  .real-nav > a {
+    font-size: 12px;
+    line-height: 22px;
+  }
+
+  .content-head {
+    width: 100%;
+    height: 640px;
+  }
+
+  .small-card {
+    width: 530px;
+    height: 280px;
+    padding: 0 50px;
+  }
+
+  .small-card > :nth-child(2) {
+    font-size: 31px;
+    line-height: 46px;
+  }
+
+  .small-card > :nth-child(3) {
+    width: 150px;
+    height: 41px;
+    font-size: 13px;
+    line-height: 23px;
+  }
+
+  .part01-left {
+    width: 48%;
+  }
+
+  .text-button > :nth-child(1) {
+    font-size: 26px;
+    line-height: 34px;
+  }
+
+  .text-button > :nth-child(2) {
+    width: 100px;
+    height: 30px;
+  }
+
+  .part01-right {
+    width: 48%;
+    padding: 48px 15px 48px 35px;
+  }
+
+  .margin-58 {
+    width: 200px;
+    height: 200px;
+  }
+
+  .text-button02 {
+    width: 165px;
+  }
+
+  .text-button02 > :nth-child(1) {
+    width: 213px;
+    font-size: 26px;
+    line-height: 34px;
+    text-align: right;
+  }
+
+  .text-button02 > :nth-child(2) {
+    width: 100px;
+    height: 30px;
+  }
+
+  .stf-anim-top > :nth-child(1) {
+    font-size: 26px;
+    line-height: 34px;
+  }
+
+  .stf-anim-top > :nth-child(2) {
+    font-size: 12px;
+  }
+
+  .for-shopping {
+    width: 90%;
+    flex-wrap: wrap;
+  }
+
+  .image-cost {
+    margin: 15px;
+  }
+
+  .top-part > :nth-child(1) {
+    font-size: 12px;
+    line-height: 15px;
+  }
+
+  .top-part > :nth-child(2) {
+    padding: 18px 0 90px;
+    font-size: 28px;
+    line-height: 38px;
+  }
+
+  .left-part02 {
+    width: 44%;
+  }
+
+  .left-part02 > :nth-child(1) {
+    font-size: 29px;
+    line-height: 38px;
+  }
+
+  .left-part02 > :nth-child(3) {
+    font-size: 13px;
+    line-height: 23px;
+  }
+
+  .btn-get {
+    width: 140px;
+    height: 45px;
+    font-size: 12px;
+    line-height: 22px;
+  }
+
+  .left-part-telegram {
+    width: 43%;
+    padding: 25px;
+  }
+
+  .left-part-telegram > img {
+    padding: 15px;
+  }
+
+  .left-part-telegram > p {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .input-button {
+    width: 50%;
+    justify-content: space-between;
+    padding: 25px;
+  }
+
+  .input-button > :nth-child(1) {
+    width: 350px;
+    height: 40px;
+  }
+
+  .input-button > :nth-child(2) {
+    width: 100px;
+    height: 40px;
+  }
+
+  .center-part > :nth-child(1) {
+    font-size: 12px;
+    line-height: 15px;
+  }
+
+  .center-part > :nth-child(2) {
+    font-size: 29px;
+    line-height: 38px;
+  }
+
+  .image-part03 {
+    width: 90%;
+    flex-wrap: wrap;
+  }
+
+  .image-part03 > img {
+    margin-right: 0;
+    margin: 10px;
+  }
+
+  .last-top {
+    padding: 30px 0;
+  }
+
+  .last-bottom {
+    padding: 25px 0;
+  }
+}
+
+@media (max-width: 960px) {
+  #root {
+    max-width: 960px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .header-top {
+    width: 100%;
+    height: 654px;
+  }
+
+  .toppest {
+    padding: 8px 110px;
+  }
+
+  .bottom-part {
+    padding: 0 120px;
+  }
+
+  .real-nav > a {
+    font-size: 11px;
+    line-height: 21px;
+  }
+
+  .content-head {
+    width: 100%;
+    height: 550px;
+  }
+
+  .small-card {
+    width: 450px;
+    height: 250px;
+    padding: 0 50px;
+  }
+
+  .small-card > :nth-child(2) {
+    font-size: 29px;
+    line-height: 44px;
+  }
+
+  .small-card > :nth-child(3) {
+    width: 148px;
+    height: 40px;
+  }
+
+  .content02-add {
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+  }
+
+  .part01-left {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .text-button {
+    align-items: center;
+  }
+
+  .text-button > :nth-child(1) {
+    width: 100%;
+    padding-bottom: 16px;
+    font-family: VarelaRound;
+    font-size: 34px;
+    line-height: 38px;
+    color: #ffffff;
+  }
+
+  .text-button > :nth-child(2) {
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #111111;
+  }
+
+  .part01-right {
+    width: 100%;
+    flex-direction: row-reverse;
+  }
+}
