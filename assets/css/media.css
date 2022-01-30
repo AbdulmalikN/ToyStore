@@ -202,7 +202,7 @@
     padding: 8px 110px;
   }
 
-  .bottom-part {
+  .bottom-part01 {
     padding: 0 120px;
   }
 
@@ -312,7 +312,7 @@
     padding: 10px 80px;
   }
 
-  .bottom-part {
+  .bottom-part01 {
     padding: 0 80px;
     margin: 0;
   }
@@ -433,7 +433,7 @@
   .input-part {
     width: 100%;
     height: auto;
-    margin-top: 150px;
+    margin-top: 20px;
     padding: 0 80px;
   }
 
@@ -457,6 +457,7 @@
 
   .input-button {
     width: 100%;
+    padding: 30px;
   }
 
   .footer-part-last {
@@ -487,6 +488,11 @@
 
   .toppest {
     padding: 0 50px;
+  }
+
+  .bottom-part01 {
+    padding: 0 50px;
+    margin: 0;
   }
 
   .left-part {
@@ -538,7 +544,7 @@
   }
 
   .left-part02 {
-    margin-top: 60px;
+    margin-top: 70px;
   }
 
   .input-part {
@@ -570,7 +576,7 @@
     padding: 0 30px;
   }
 
-  .bottom-part {
+  .bottom-part01 {
     padding: 0 30px;
     justify-content: space-between;
   }
@@ -676,7 +682,7 @@
   }
 
   .like-section {
-    padding: 250px 30px 30px;
+    padding: 100px 30px 30px;
   }
 
   .center-part > :nth-child(1) {
@@ -736,7 +742,7 @@
     padding: 3px 20px;
   }
 
-  .bottom-part {
+  .bottom-part01 {
     padding: 0 20px;
   }
 
@@ -858,7 +864,7 @@
   }
 
   .like-section {
-    padding: 280px 20px 30px 20px;
+    padding: 100px 20px 30px 20px;
   }
 
   .center-part > :nth-child(2) {
@@ -915,7 +921,7 @@
     line-height: 15px;
   }
 
-  .bottom-part {
+  .bottom-part01 {
     width: 100%;
     padding: 0 15px;
   }
@@ -1025,7 +1031,7 @@
   }
 
   .like-section {
-    padding: 280px 15px 30px 15px;
+    padding: 100px 15px 30px 15px;
   }
 
   .center-part > :nth-child(2) {
@@ -1071,7 +1077,7 @@
     padding: 3px 10px;
   }
 
-  .bottom-part {
+  .bottom-part01 {
     padding: 0 10px;
   }
 
@@ -1193,7 +1199,7 @@
   }
 
   .like-section {
-    padding: 280px 10px 30px 10px;
+    padding: 100px 10px 30px 10px;
   }
 
   .last-item {
