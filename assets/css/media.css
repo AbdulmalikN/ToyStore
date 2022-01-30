@@ -725,6 +725,167 @@
   }
 }
 
+@media (max-width: 412px) {
+  #root {
+    max-width: 412px;
+    width: 100%;
+    height: 100%;
+  }
+
+  .toppest {
+    padding: 3px 20px;
+  }
+
+  .bottom-part {
+    padding: 0 20px;
+  }
+
+  .navigation > p {
+    font-size: 17px;
+    line-height: 24px;
+  }
+
+  .content-head {
+    padding: 60px;
+  }
+
+  .small-card {
+    width: 100%;
+    height: 250px;
+  }
+
+  .small-card > :nth-child(1) {
+    font-size: 13px;
+    line-height: 16px;
+  }
+
+  .small-card > :nth-child(2) {
+    font-size: 22px;
+    line-height: 38px;
+  }
+
+  .small-card > :nth-child(3) {
+    font-size: 13px;
+  }
+
+  .small-add01 {
+    padding: 50px 20px;
+  }
+
+  .content02-add {
+    flex-direction: column;
+  }
+
+  .part01-left {
+    width: 100%;
+    padding: 15px;
+  }
+
+  .text-button > :nth-child(1) {
+    width: auto;
+  }
+
+  .text-button > :nth-child(2) {
+    height: 22px;
+  }
+
+  .part01-right {
+    width: 100%;
+    padding: 15px;
+  }
+
+  .text-button02 > :nth-child(1) {
+    width: auto;
+  }
+
+  .text-button02 > :nth-child(2) {
+    height: 22px;
+  }
+
+  .section-middle {
+    padding: 0 20px;
+  }
+
+  .stf-anim-top > :nth-child(1) {
+    font-size: 24px;
+    line-height: 35px;
+  }
+
+  .stf-anim-top > :nth-child(2) {
+    width: 100px;
+    font-size: 11px;
+  }
+
+  .video-part {
+    padding: 0 20px;
+  }
+
+  .information-video > :nth-child(1) {
+    font-size: 13px;
+    line-height: 16px;
+  }
+
+  .information-video > :nth-child(2) {
+    font-size: 32px;
+    line-height: 44px;
+  }
+
+  .btn-play-video {
+    width: 58px;
+    height: 58px;
+  }
+
+  .weblfob {
+    padding: 50px 20px;
+  }
+
+  .top-part > :nth-child(2) {
+    font-size: 24px;
+  }
+
+  .left-part02 > :nth-child(1) {
+    font-size: 24px;
+  }
+
+  .left-part02 > :nth-child(3) {
+    font-size: 13px;
+  }
+
+  .btn-get {
+    width: 140px;
+    height: 44px;
+    font-size: 13px;
+  }
+
+  .like-section {
+    padding: 280px 20px 30px 20px;
+  }
+
+  .center-part > :nth-child(2) {
+    font-size: 26px;
+    line-height: 40px;
+  }
+
+  .image-part03 > img {
+    margin-right: 0;
+    margin: 5px;
+  }
+
+  .image-part03 > :nth-child(6) {
+    margin-right: 0;
+    margin: 5px;
+  }
+
+  .last-item {
+    width: 178px;
+    margin-top: 70px;
+  }
+
+  .footer-part-last {
+    padding: 0.47px 20px;
+  }
+}
+
 @media (max-width: 360px) {
   #root {
     max-width: 360px;
@@ -733,7 +894,7 @@
   }
 
   .toppest {
-    padding: 0 15px;
+    padding: 3px 15px;
     justify-content: center;
     align-items: center;
   }
